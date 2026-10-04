@@ -12,7 +12,7 @@ I'm interested in **data engineering, backend development, databases, and buildi
 
 - 🎓 Computer Science student at **Lehigh University**
 - 📊 Minor in **Data Science**
-- 💼 Current project coordinator intern @Entre-Ed
+- 💼 Current project coordinator intern **@Entre-Ed**
 - ⚙️ Interested in **Data Engineering, Backend Development, and Databases**
 - 🐍 Working with **Python, Java, SQL, PostgreSQL, FastAPI, C#, and Unity**
 
@@ -57,11 +57,11 @@ A 2D side-scrolling game developed with **Unity and C#**.
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
+- Artificial Intelligence & AI Development
 - Database Systems
 - Backend Development
-- Data Engineering
 - API Development
+- Data Engineering
 
 ---
 
