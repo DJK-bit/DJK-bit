@@ -12,13 +12,11 @@ I'm interested in **data engineering, backend development, databases, and buildi
 
 - 🎓 Computer Science student at **Lehigh University**
 - 📊 Minor in **Data Science**
+- 💼 Current project coordinator intern @Entre-Ed
 - ⚙️ Interested in **Data Engineering, Backend Development, and Databases**
 - 🐍 Working with **Python, Java, SQL, PostgreSQL, FastAPI, C#, and Unity**
-- 🧠 Solving data structures and algorithm problems on **LeetCode**
-- 🎮 Currently developing the backend and database infrastructure for **LeafMan**
-- 🌎 Fluent in **English and Korean**
----
 
+---
 ## 🚀 Featured Projects
 
 ### 🌱 LeafMan Database & Backend
@@ -41,31 +39,8 @@ A 2D side-scrolling game developed with **Unity and C#**.
 - Built physics-based player controls and collision systems
 - Implemented randomized obstacle spawning and scoring
 - Programmed multiple enemy movement and attack behaviors
-- Developed restart and temporary invincibility mechanics
 
----
-
-## 🧠 Data Structures & Algorithms
-
-I regularly practice algorithmic problem solving and implement fundamental computer science concepts in **Java and Python**.
-
-Topics I've worked with include:
-
-- Linked Lists
-- Stacks
-- Queues
-- Searching
-- Sorting
-- Recursion
-- Object-Oriented Programming
-- Data Structures
-- Algorithmic Problem Solving
-
-### 🔗 LeetCode
-
-[View my LeetCode profile](YOUR_LEETCODE_LINK_HERE)
-
----
+🎮 [Play / Download LeafMan](https://djk-bit.itch.io/leafman)
 
 ## 🛠️ Technologies
 
